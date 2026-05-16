@@ -5,3 +5,5 @@ node_modules
 .env*.local
 *.log
 .DS_Store
+data/publish-drafts.json
+data/publish-plan.json
